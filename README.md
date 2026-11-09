@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STUDYFLOW
 
 1. Open this folder in VS Code (File > Open Folder).
@@ -6,3 +7,6 @@
    flutter create . --project-name studyflow --platforms=android,ios,web,windows
    flutter pub get
 4. Pick a device (bottom-right of VS Code, e.g. Chrome / Windows / emulator) and press F5.
+=======
+# studyflow
+>>>>>>> 6123062ad2c2723982b4bc7adcc2090eb0dec4ac
